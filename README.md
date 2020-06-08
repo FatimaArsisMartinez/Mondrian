@@ -1,1 +1,1 @@
-# p8 mondrian
+# p8-mondrian
